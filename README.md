@@ -2,9 +2,7 @@
 
 <p align="center"><img src="https://lh3.googleusercontent.com/NgBKiE5_1-IfCuCSe-_1Td5iBc-ZyZmt6BbVenlobG8dV4a7u8-b0WtYinn7NQaJpA=s180-rw"></p>
 
-Application Name : Sports Tracker 
-
-Platform : React Native
+<b>Platform</b> : React Native
 
 <b>Description</b>
 
