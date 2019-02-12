@@ -1,6 +1,8 @@
 <p align="center"><img src="https://lh3.googleusercontent.com/NgBKiE5_1-IfCuCSe-_1Td5iBc-ZyZmt6BbVenlobG8dV4a7u8-b0WtYinn7NQaJpA=s180-rw"></p>
 
-SportsTracker React Native
+Sports Tracker 
+
+Platform : React Native
 
 Sports Tracker transforms your Swimming, Athletics and Cross Country Events allowing you to ditch the paper and go mobile. 
 
